@@ -1,5 +1,5 @@
 # CodeAlpha_Age_Calculator
-Age Calculator using HTML,CSS and JavaScript
+AgeCalculator using HTML,CSS and JavaScript
 # Age Calculator
 
 ## Description

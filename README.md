@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Output" src="https://github.com/user-attachments/assets/95531469-2d72-4774-90d1-3efbb9346fc5" />
 # CodeAlpha_Age_Calculator
 AgeCalculator using HTML,CSS and JavaScript
 # Age Calculator
@@ -14,6 +15,9 @@ A simple Age Calculator developed using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+
+## Output Screenshot
+![Output](output.png)
 
 ## Author
 Priyadharshini V
